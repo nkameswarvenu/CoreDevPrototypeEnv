@@ -4,5 +4,5 @@ applications:
   instances: 1
   domain: mybluemix.net
   name: coredevprototypeenvvg
-  host: mybluemix.net
+  host: coredevprototypeenvvg
   disk_quota: 1024M
